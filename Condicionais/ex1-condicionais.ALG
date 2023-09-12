@@ -1,5 +1,5 @@
 Algoritmo "condicionais"
-  //Faça um algoritmo que leia 3 valores Em seguida você
+  //FaÃ§a um algoritmo que leia 3 valores Em seguida vocÃª
 //deve imprimir (mostrar na tela) o maior valor
 //E - 3 valores
 //P - encontrar o maior
@@ -15,14 +15,12 @@ Inicio
   leia(n3)
   
   se(n1 > n2) e (n1 > n3) entao
-    escreva("o primeiro número é o maior")
+    escreva("o primeiro nÃºmero Ã© o maior")
   senao
      se(n2 > n1) e (n2 > n3) entao
-       escreva("O segundo número é o maior")
+       escreva("O segundo nÃºmero Ã© o maior")
      senao
-       escreva("O terceiro número é o maior")
+       escreva("O terceiro nÃºmero Ã© o maior")
      fimse
-  fimse
-
-      
+  fimse      
 Fimalgoritmo
